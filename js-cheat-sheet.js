@@ -174,6 +174,8 @@ array.join(','); //joins all items in array together in one string with () betwe
 
 array.reverse(); //reverses array, doesn't just return a reversed value, it 
 
+array.includes(); //sees if an array includes whatever you put in ()
+
 
 //Removing something from a function
 
